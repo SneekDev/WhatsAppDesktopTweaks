@@ -1,8 +1,9 @@
 # WhatsAppDesktopTweaks
 ---
 ## Features
-1. custom settings
-2. ascii smileys [¯\_(ツ)_/¯ | ༼ つ ◕_◕ ༽つ | ( ͡° ͜ʖ ͡°)]
-3. text to speech for incoming messages
+1. dark theme
+2. custom settings
+3. ascii smileys [¯\_(ツ)_/¯ | ༼ つ ◕_◕ ༽つ | ( ͡° ͜ʖ ͡°)]
+4. text to speech for incoming messages
 ---
 _SneekDev Germany - based in Berlin_
